@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Proyecto No Maderables"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bacao.jpg"
   bio    : "Somos parte de una iniciativa para el uso de los recursos no maderables del país."
   links:
     #- label: "Website"
