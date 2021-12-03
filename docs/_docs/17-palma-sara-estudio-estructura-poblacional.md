@@ -1,8 +1,8 @@
 ---
 title: "Estudio de caso palma sara"
-permalink: /docs/estructura-poblacional/
+permalink: /docs/palma-saraestructura-poblacional/
 excerpt: "Estudio de caso palma sara, enfasis estructura poblacional"
-last_modified_at: 2021-Dic-02
+last_modified_at: 2021-Dic-03
 redirect_from:
   - /theme-setup/
 toc: true
