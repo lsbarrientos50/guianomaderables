@@ -1,10 +1,9 @@
 ---
 title: "Introducción"
 permalink: /docs/introduccion/
-excerpt: "Básico."
-last_modified_at: 2021-Dic-02
-redirect_from:
-  - /theme-setup/
+excerpt: "Básico"
+last_modified_at: 2021-12-02
+layout: single
 toc: true
 ---
 
