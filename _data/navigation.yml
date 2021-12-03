@@ -1,10 +1,10 @@
 main:
   - title: "Introducción"
-    url: /introduccion/
+    url: /docs/introduccion/
   - title: "Normatividad"
-    url: /Normatividad/
+    url: /docs/Normatividad/
   - title: "Guía estudios tecnicos y protocolos"
-    url: /guia-estudios-tecnicos/
+    url: /docs/guia-estudios-tecnicos/
   - title: "Guía evaluación de solicitudes"
     url: /docs/guia-evaluacion-solicitudes/
   - title: "Estudios de caso"
