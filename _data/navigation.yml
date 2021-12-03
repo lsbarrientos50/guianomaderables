@@ -1,12 +1,14 @@
 main:
   - title: "Introducción"
-    url: /docs/introduccion/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+    url: /introduccion/
+  - title: "Normatividad"
+    url: /Normatividad/
+  - title: "Guía estudios tecnicos y protocolos"
+    url: /guia-estudios-tecnicos/
+  - title: "Guía evaluación de solicitudes"
+    url: /docs/guia-evaluacion-solicitudes/
+  - title: "Estudios de caso"
+    url: /docs/Estudios-caso/  
     
 sidebar:
   nav: "docs"
