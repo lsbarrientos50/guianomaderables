@@ -1,6 +1,6 @@
 ---
 title: "Determinación de epecies"
-permalink: /docs/Determinación-de-epecies/
+permalink: /docs/Determinacion-de-epecies/
 excerpt: "Determinación de especies SIB."
 last_modified_at: 2021-Dic-03
 redirect_from:
