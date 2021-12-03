@@ -1,6 +1,6 @@
 ---
 title: "Áreas de estudio"
-permalink: /docs/Areas-de-estudio/
+permalink: /docs/areas-de-estudio/
 excerpt: "Ubicación áreas de estudio."
 last_modified_at: 2021-Dic-02
 redirect_from:
