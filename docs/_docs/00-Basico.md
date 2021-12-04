@@ -1,6 +1,6 @@
 ---
 title: "Introducción"
-permalink: /docs/introduccion/
+permalink: /introduccion/
 excerpt: "Básico"
 last_modified_at: 2021-12-02
 layout: single
