@@ -1,6 +1,6 @@
 main:
   - title: "Introducción"
-    url: /docs/introduccion/
+    url: /introduccion/
   - title: "Normatividad"
     url: /docs/Normatividad/
   - title: "Guía estudios tecnicos y protocolos"
