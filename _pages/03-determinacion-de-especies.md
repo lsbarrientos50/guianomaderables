@@ -3,6 +3,8 @@ title: "Determinación de epecies"
 permalink: /introduccion/determinacion-de-epecies/
 excerpt: "Determinación de especies SIB."
 last_modified_at: 2021-Dic-03
+redirect_from:
+  - /theme-setup/
 toc: true
 ---
 
