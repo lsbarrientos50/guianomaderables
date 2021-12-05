@@ -1,10 +1,8 @@
 ---
 title: "Origen de las especies"
-permalink: /modulo1/origen-de-las-especies/
+permalink: /basico/origen-de-las-especies/
 excerpt: "Introducción Origen de las especies"
 last_modified_at: 2021-Dic-2
-redirect_from:
-  - /theme-setup/
 toc: true
 ---
 
