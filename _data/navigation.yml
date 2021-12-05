@@ -22,15 +22,14 @@ basico:
         url: /introduccion/
       - title: "Upgrading"
         url: /introduccion/
-   - title: Introducción2
-      children:
-        - title: "Intro"
-          url: /introduccion/
-        - title: "Origen"
-          url: /oreigen-especies/
-        - title: "Installation"
-          url: /introduccion/
-        - title: "Upgrading"
-          url: /introduccion/
-  
+  - title: Introducción
+    children:
+      - title: "Intro"
+        url: /introduccion/
+      - title: "Origen"
+        url: /oreigen-especies/
+      - title: "Installation"
+        url: /introduccion/
+      - title: "Upgrading"
+        url: /introduccion/
 
