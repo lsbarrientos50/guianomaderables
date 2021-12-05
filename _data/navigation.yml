@@ -18,8 +18,8 @@ basico:
         url: /introduccion/
       - title: "Origen"
         url: /oreigen-especies/
-      - title: "Installation"
-        url: /introduccion/
+      - title: "muestras"
+        url: /docs/Coleccion-de-Muestras/
       - title: "Upgrading"
         url: /introduccion/
   - title: Introducción
