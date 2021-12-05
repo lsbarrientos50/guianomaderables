@@ -4,7 +4,8 @@ permalink: /introduccion/
 excerpt: "Básico"
 last_modified_at: 2021-12-02
 layout: single
-
+redirect_from:
+  - /theme-setup/
 toc: true
 ---
 
