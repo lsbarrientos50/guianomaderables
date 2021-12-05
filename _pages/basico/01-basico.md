@@ -1,5 +1,5 @@
 ---
-title: "Introducción"
+title: "Conocimientos básico"
 permalink: /introduccion/
 excerpt: "Básico"
 last_modified_at: 2021-12-02
