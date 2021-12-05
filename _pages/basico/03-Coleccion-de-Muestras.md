@@ -2,7 +2,7 @@
 title: "Colección de Muestras"
 permalink: /coleccion-de-muestras/
 excerpt: "Colección de muestras para determinación."
-last_modified_at: 2021-Dic-03
+last_modified_at: 2021-12-03
 toc: true
 ---
 
