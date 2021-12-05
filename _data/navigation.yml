@@ -10,5 +10,17 @@ main:
   - title: "Estudios de caso"
     url: /docs/Estudios-caso/  
     
-sidebar:
-  nav: "docs"
+# documentation links
+basico:
+  - title: Introducción
+    children:
+      - title: "Quick-Start Guide"
+        url: /introduccion/
+      - title: "Structure"
+        url: /introduccion/
+      - title: "Installation"
+        url: /introduccion/
+      - title: "Upgrading"
+        url: /introduccion/
+  
+
